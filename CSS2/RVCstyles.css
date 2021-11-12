@@ -1,0 +1,23 @@
+div{
+	background-color: lightblue;
+	border-width: 5px 0px;
+	border-style: solid;
+	border-color: darkblue;
+	display: inline-block;
+	margin-top: 200px;
+	padding: 30px;
+
+}
+input, label{
+	padding: 10px;
+}
+input:focus{
+	background-color: yellow;
+}
+body{
+	text-align: center;
+}
+.tamaño{
+	padding: 15px 25px;
+	margin: 10px 0px;
+}
